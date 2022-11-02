@@ -1,0 +1,24 @@
+{
+  "name": "csv-chip-0007",
+  "version": "1.0.0",
+  "description": "Task for hng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelo-Ufelle/CSV-CHIP-0007.git"
+  },
+  "author": "Ang_Elo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelo-Ufelle/CSV-CHIP-0007/issues"
+  },
+  "homepage": "https://github.com/Angelo-Ufelle/CSV-CHIP-0007#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
